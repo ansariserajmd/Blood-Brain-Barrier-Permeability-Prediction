@@ -1,20 +1,20 @@
 {
-    "name": "Blood-Brain-Barrier-Permeability-Prediction",
-    "version": "1.0.0",
-    "description": "",
-    "scripts": {
-        "build": "echo \"No build specified\" && exit 1",
-        "test": "echo \"No test specified\" && exit 1",
-        "start": "node index.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/ansariserajmd/Blood-Brain-Barrier-Permeability-Prediction.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/ansariserajmd/Blood-Brain-Barrier-Permeability-Prediction/issues"
-    },
-    "homepage": "https://github.com/ansariserajmd/Blood-Brain-Barrier-Permeability-Prediction#readme"
+  "name": "Blood-Brain-Barrier-Permeability-Prediction",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "echo 'Building the app...' && npm install",
+    "test": "echo 'No test specified' && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansariserajmd/Blood-Brain-Barrier-Permeability-Prediction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansariserajmd/Blood-Brain-Barrier-Permeability-Prediction/issues"
+  },
+  "homepage": "https://github.com/ansariserajmd/Blood-Brain-Barrier-Permeability-Prediction#readme"
 }
