@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ansariserajmd/Blood-Brain-Barrier-Permeability-Prediction#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "flask": "^2.0.1",
+    "flask": "^2.3.2",
     "numpy": "^1.21.0",
     "pandas": "^1.3.0",
     "rdkit": "^2021.03.5",
